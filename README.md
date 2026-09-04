@@ -3,6 +3,7 @@
 This directory contains minimal public references for CVE coordination involving Netcore router findings.
 The files intentionally omit proof-of-concept material, exploit steps, and detailed remediation notes.
 Public reference date: 2026-09-04
+Contributors: Zhou Ao, Yin Luxing, Jiang Yuxuan, Liu Xin, @Nebusec
 
 ## Advisories
 - [Unterminated Buffer Over-read in filter_arp_put_file.cgi via String API Misuse](2026.08.19-netcore-nr255v-arp-import-overread.md)
