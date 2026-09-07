@@ -4,6 +4,7 @@ This directory contains minimal public references for CVE coordination involving
 The files intentionally omit proof-of-concept material, exploit steps, and detailed remediation notes.
 Public reference date: 2026-09-04
 Contributors: Zhou Ao, Yin Luxing, Jiang Yuxuan, Liu Xin, @Nebusec
+Status: 22 findings have provisional CVE IDs; 3 additional references are pending confirmation.
 
 ## Advisories
 - [Unterminated Buffer Over-read in filter_arp_put_file.cgi via String API Misuse](2026.08.19-netcore-nr255v-arp-import-overread.md)
